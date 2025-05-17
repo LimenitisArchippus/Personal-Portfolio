@@ -1,0 +1,16 @@
+.header{
+  margin: 0%;
+  background-color: aliceblue;
+}
+.nav{
+  padding: 10px 15px 10px 15px;
+  background-color: aliceblue;
+  border-width: 0ch;
+}
+
+.nav:hover{
+  background-color: white;
+  padding: 9px 14px 9px 14px;
+  border-width: 1px;
+}
+
