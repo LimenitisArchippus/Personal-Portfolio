@@ -12,7 +12,7 @@ function Examples() {
             </h3>
             <img
               className="mb-2"
-              src="src/Images/TreeSite.png"
+              src="https://raw.githubusercontent.com/LimenitisArchippus/Personal-Portfolio/refs/heads/main/src/Images/TreeSite.png"
               alt="Forestry Website Image"
             />
             <p className="text-gray-700 font-bold mb-2">
@@ -31,7 +31,7 @@ function Examples() {
             </h3>
             <img
               className="mb-2"
-              src="src/Images/MotorcycleInsurance.png"
+              src="https://raw.githubusercontent.com/LimenitisArchippus/Personal-Portfolio/refs/heads/main/src/Images/MotorcycleInsurance.png"
               alt="Flamingo Motorcycle Insurance Website Image"
             />
             <p className="text-gray-700 font-bold mb-2">
@@ -50,7 +50,7 @@ function Examples() {
             </h3>
             <img
               className="mb-2"
-              src="src/Images/ComputerWebsite.png"
+              src="https://raw.githubusercontent.com/LimenitisArchippus/Personal-Portfolio/refs/heads/main/src/Images/ComputerWebsite.png"
               alt="Computer Website Image"
             />
             <p className="text-gray-700 font-bold mb-2">

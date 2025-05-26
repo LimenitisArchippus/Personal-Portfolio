@@ -6,7 +6,7 @@ import Home from './Home.jsx';
 import About from './About.jsx';
 import Contact from './Contact.jsx';
 import Examples from './Examples.jsx';
-import Experiance from './Experiance.jsx'
+import Experience from './Experience.jsx'
 
 function funcRoot(value) {
   const root = createRoot(document.getElementById(value));
@@ -46,10 +46,10 @@ export function contRender(value) {
         </StrictMode>
       );
       break;
-    case "Experiance":
+    case 'Experience':
       divContent.render(
         <StrictMode>
-          <Experiance />
+          <Experience />
         </StrictMode>
       );
       break;
@@ -71,8 +71,8 @@ function Nav() {
         <button className="nav" onClick={() => contRender('Examples')}>
           Examples
         </button>
-        <button className="nav" onClick={() => contRender('Experiance')}>
-          Experiance
+        <button className="nav" onClick={() => contRender('Experience')}>
+          Experience
         </button>
       </div>
     </>
@@ -87,7 +87,7 @@ divRoot.render(
   <StrictMode>
     <div className="header">
       <header>
-        <h1 className="text-6xl text-center p-1">My Potfolio</h1>
+        <h1 className="text-6xl text-center p-1">My Portfolio</h1>
 
         <Nav />
       </header>

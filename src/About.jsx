@@ -12,7 +12,7 @@ function About() {
             Hello, My name is Jonathan Pope
           </h3>
           <p>
-            I am an Idaho based programmer with experiance with several
+            I am an Idaho based programmer with experience with several
             programming languages. I am also interested in Motorcycles, Music,
             and Video Games.
           </p>
@@ -26,10 +26,10 @@ function About() {
             Music has been a big part of my life for quite some time. Having
             mostly listened to "mainstream" music until i got into metal in
             highschool, my music taste has evolved over the last 10 years. Some
-            of my facorite albums include:
+            of my favorite albums include:
           </p>
           <ul>
-            <li>Wont Be Sooon Before To Long - Maroon 5</li>
+            <li>Won't Be Soon Before To Long - Maroon 5</li>
             <li>Eternal Blue - Spiritbox</li>
             <li>Jinkougaku - Zutomayo</li>
             <li>Afterwards - Suisoh</li>
@@ -50,7 +50,7 @@ function About() {
           </p>
           <ul>
             <li>Triumph Daytona 660</li>
-            <li>Honda Grom</li>
+            <li>Honda CBR250RR Fireblade</li>
             <li>Kawasaki ZX25R</li>
           </ul>
         </div>
@@ -62,7 +62,7 @@ function About() {
           <p>
             Video Games have been a big part of my life growing up as they have
             been the main way i have "killed time". Games have been my go to
-            activity when i cant think of anything else to do. Whether or not it
+            activity when i can't think of anything else to do. Whether or not it
             was the best idea(especially when I had homework) is up for debate. Some of my favorite games include:
           </p>
           <ul>

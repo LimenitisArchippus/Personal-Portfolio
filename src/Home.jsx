@@ -1,24 +1,4 @@
-import { useState } from 'react';
-import { contRender } from './Main.jsx';
-
-function Button({ onButtonClick }) {
-  return (
-    <>
-      <button
-        className="bg-green-500 text-white py-3 px-6 rounded-full hover:bg-green-700 transition duration-300 ease-in-out text-lg mt-3"
-        onClick={onButtonClick}
-      >
-        Shop Now!
-      </button>
-    </>
-  );
-}
-
 function Home() {
-  function renderProducts() {
-    contRender('Products');
-  }
-
   return (
     <>
       <section id="home" className="text-center">
