@@ -28,7 +28,7 @@ function Contact() {
               <input className="inline-block ml-[5px] border border-black" name="lastname" />
             </label>
             <label className="m-1">
-              Email Adress:
+              Email Address:
               <input className="inline-block ml-[5px] border border-black" name="email" />
             </label>
             <label className="m-1">

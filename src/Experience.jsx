@@ -15,11 +15,11 @@ function Experience(){
           <tbody>
             <tr>
               <th>Python</th>
-              <th>3 Years</th>
+              <th>3.5 Years</th>
             </tr>
             <tr >
               <th>HTML, Javascript, CSS</th>
-              <th>1.5 Years</th>
+              <th>2.5 Years</th>
             </tr>
             <tr >
               <th>React</th>
@@ -27,11 +27,23 @@ function Experience(){
             </tr>
             <tr >
               <th>C#</th>
-              <th>6 Months</th>
+              <th>9 Months</th>
             </tr>
             <tr >
               <th>Java</th>
               <th>3 Years</th>
+            </tr>
+            <tr>
+              <th>SQL</th>
+              <th>3 Months</th>
+            </tr>
+            <tr>
+              <th>.NET</th>
+              <th>3 Months</th>
+            </tr>
+            <tr>
+              <th>Android Studio / Kotlin</th>
+              <th>3 Months</th>
             </tr>
           </tbody>
         </table>
@@ -71,6 +83,27 @@ function Experience(){
         <li>SWDV-140-001F-8W1: Intermediate Web App Development</li>
         <li>SWDV-143-001F-8W2: Client Side Frameworks</li>
         <li>SWDV-152-001F-16W: Systems Analysis and Design</li>
+      </ul>
+
+      <h3 className="font-bold">Fifth Semester Classes (summer of 2025)</h3>
+      <ul className="list-disc ml-6">
+        <li>COMM-259-001W-8W: Communication THru Web Design</li>
+        <li>PSYC-150-002W-8W: Human Relations for Success</li>
+      </ul>
+
+      <h3 className="font-bold">Sixth Semester Classes (fall of 2025)</h3>
+      <ul className="list-disc ml-6">
+        <li>SWDV-210-001F-16W: Intro to Server-Side Programming</li>
+        <li>SWDV-220-001F-8W1: Fund of Database Systems</li>
+        <li>SWDV-235-001F-8W2: Advanced Web App Development</li>
+      </ul>
+
+      <h3 className="font-bold">Seventh Semester Classes (spring of 2026)</h3>
+      <ul className="list-disc ml-6">
+        <li>SWDV-265-001F-8W1: Mobile Development</li>
+        <li>SWDV-275-001F-16W: Development Tools</li>
+        <li>SWDV-280-001F-16W: Collaborative  Development</li>
+        <li>SWDV-290-001-16W: Capstone Intership</li>
       </ul>
     </div>
     </>

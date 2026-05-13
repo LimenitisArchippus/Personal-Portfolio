@@ -18,6 +18,7 @@ function About() {
           </p>
         </div>
 
+
         <div className="m-6 p-6 bg-aliceblue rounded-lg shadow-md">
           <h3 className="text-xl font-semibold text-gray-800 text-center">
             Music
@@ -25,11 +26,11 @@ function About() {
           <p>
             Music has been a big part of my life for quite some time. Having
             mostly listened to "mainstream" music until i got into metal in
-            highschool, my music taste has evolved over the last 10 years. Some
+            In highschool, my music taste has evolved over the last 10 years. Some
             of my favorite albums include:
           </p>
           <ul>
-            <li>Won't Be Soon Before To Long - Maroon 5</li>
+            <li>Won't Be Soon Before Too Long - Maroon 5</li>
             <li>Eternal Blue - Spiritbox</li>
             <li>Jinkougaku - Zutomayo</li>
             <li>Afterwards - Suisoh</li>
@@ -37,14 +38,15 @@ function About() {
           </ul>
         </div>
 
+
         <div className="m-6 p-6 bg-aliceblue rounded-lg shadow-md">
           <h3 className="text-xl font-semibold text-gray-800 text-center">
             Motorcycles
           </h3>
           <p>
-            I have been riding a motorcycle since Novemebt of 2024. I started on
+            I have been riding a motorcycle since November of 2024. I started on
             a Honda Navi (a small 112cc scooter shaped like a proper motorcycle)
-            and then purchased a Husqavarna Vitpilen 401. Riding is my favorite
+            and then purchased a Husqvarna Vitpilen 401. Riding is my favorite
             mode of transportation as I find driving to be a boring and tedious
             mode of transport. My favorite motorcycles are:
           </p>
@@ -55,6 +57,7 @@ function About() {
           </ul>
         </div>
 
+
         <div className="m-6 p-6 mb-14 bg-aliceblue rounded-lg shadow-md">
           <h3 className="text-xl font-semibold text-gray-800 text-center">
             Video Games
@@ -62,7 +65,7 @@ function About() {
           <p>
             Video Games have been a big part of my life growing up as they have
             been the main way i have "killed time". Games have been my go to
-            activity when i can't think of anything else to do. Whether or not it
+            activity when I can't think of anything else to do. Whether or not it
             was the best idea(especially when I had homework) is up for debate. Some of my favorite games include:
           </p>
           <ul>
@@ -76,4 +79,9 @@ function About() {
   );
 }
 
+
 export default About;
+
+
+
+
