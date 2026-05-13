@@ -8,19 +8,19 @@ function Examples() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           <div className="bg-aliceblue rounded-lg shadow-md p-4 ml-3 mr-3 flex flex-col justify-between">
             <h3 className="text-xl font-semibold text-gray-800 mb-2">
-              Javascript Website From SWDV-140
+              Web Design Game
             </h3>
             <img
               className="mb-2"
-              src="https://raw.githubusercontent.com/LimenitisArchippus/Personal-Portfolio/refs/heads/main/src/Images/TreeSite.png"
-              alt="Forestry Website Image"
+              src="https://raw.githubusercontent.com/LimenitisArchippus/Personal-Portfolio/refs/heads/main/src/Images/WebDesignGameProject.png"
+              alt="Web Design Game Level Select Image"
             />
             <p className="text-gray-700 font-bold mb-2">
-              Assignment Containing Javascript from SWDV-140
+              Collaborative Development Group Project
             </p>
             <a
               className="bg-blue-500 text-white py-2 px-4 rounded-full hover:bg-blue-700 transition duration-300 ease-in-out text-center"
-              href="https://limenitisarchippus.github.io/intermediateWebAppDevProject4/websiteFiles/home.html"
+              href="https://github.com/DevinneLeigh/Web-Design-Game"
             >
               <button className="">Link To Repository</button>
             </a>
